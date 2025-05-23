@@ -13,13 +13,13 @@
 
 ### :globe_with_meridians: Connect With Me
 <p align="center">
-  <a href="mailto:rukhsar.dev@gmail.com">
+  <a href="mailto:ashu24282@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/rukhsarxd">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rukhsarxd/">
+  <a href="https://www.facebook.com/cuteangelo09">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+  <a href="https://www.linkedin.com/in/rukhsar-saleem-ba22a1305/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
