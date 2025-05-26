@@ -6,7 +6,7 @@
 - :telescope: I’m currently working on <strong>React.js</strong> and <strong>Next.js</strong> projects
 - :seedling: Learning backend development with <strong>Node.js</strong> and <strong>Express</strong>
 - :speech_balloon: Ask me anything about <strong>frontend, UI/UX, or modern JavaScript frameworks</strong>
-- :mailbox: Reach me at: <strong>rukhsar.dev@gmail.com</strong>
+- :mailbox: Reach me at: <strong>ashu24282@gmail.com</strong>
 - :zap: Fun fact: I turn coffee ☕ into clean code and pixel-perfect designs! 🎨
 
 ---
