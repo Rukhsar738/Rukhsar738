@@ -39,7 +39,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukhsarxd&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rukhsarxd&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" height="180"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=rukhsarxd&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" 
+    height="180"/>
 </p>
 
 <h3 align="center">:rocket: Skill Progress</h3>
